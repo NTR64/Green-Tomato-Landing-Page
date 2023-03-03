@@ -5,7 +5,7 @@
 One page earnings application website landing page made using HTML and CSS.
 It has an adaptive layout for the screens of smartphones of medium and small diagonals.
 <p>
-<a href="http://vinokurov1721.tk/LandingEarningsApplication/"> link to site preview </a>
+<a href="file:///C:/Users/Nicholas%20Rouse/The%20tomato%20Project/LandingEarningsApplication/Tomato.html"> link to site preview </a>
 </p>
 
 
